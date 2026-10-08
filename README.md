@@ -1,4 +1,4 @@
-Mohammad Jadidi - Professional GitHub Profile Template & GuideA comprehensive template and step-by-step optimization roadmap to transform your GitHub account (github.com/MmdJadidi) into an industry-standard developer portfolio.1. Quick Setup: The Profile README RepositoryGitHub allows you to display a custom landing page on your profile by creating a special repository:Create a new public repository named exactly matching your GitHub username: MmdJadidi.Check the box to Add a README file.Replace the contents of that README.md with the template provided in Section 2 below.Commit and push your changes.2. Copy-and-Paste Profile README Template# Hi there, I'm Mohammad Jadidi 👋
+# Hi there, I'm Mohammad Jadidi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jadidi-126b89287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mmd.jadidi.81@gmail.com)
@@ -9,7 +9,6 @@ Mohammad Jadidi - Professional GitHub Profile Template & GuideA comprehensive te
 I am a backend software engineer with a strong focus on building resilient, high-performance web applications, distributed task pipelines, and enterprise integrations. I specialize in modern backend frameworks (**Python / Django**, **.NET 8 / C#**), event-driven architectures, asynchronous processing, and containerized deployments.
 
 - 🎓 **Education**: B.S. in Computer Science, University of Tehran
-- 💼 **Current Focus**: Architecting scalable REST APIs, CQRS-driven systems, and real-time backend services
 - 🛠️ **Core Specialties**: Clean Architecture, Asynchronous Job Queues, IoT Hardware Protocols, and Observability
 - 🌱 **Continuous Learning**: Deep Reinforcement Learning, Cloud Infrastructure, and Distributed Systems
 - 💬 **Ask me about**: Django, Celery & Redis, ASP.NET Core, CQRS & MediatR, Docker, and API performance tuning
